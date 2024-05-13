@@ -1,4 +1,4 @@
-# OCTANET_MAY
+# OCTANET_MAY TASK-1
 Task - 1 : Creating a basic landing page.
 The prime objective was to familarize with web development basics and to gauze creativity and understanding of user-centric design principles.
 The page is designed by using HTML and CSS to make it more attractive and captivating for the user to interact efficiently.
